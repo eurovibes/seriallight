@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name BCR402R)(type Legacy)(uri ${KIPRJMOD}/BCR402R.lib)(options "")(descr ""))
+  (lib (name TSCR420CX6)(type Legacy)(uri ${KIPRJMOD}/TSCR420CX6.lib)(options "")(descr ""))
+)

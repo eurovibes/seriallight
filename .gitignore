@@ -1,0 +1,13 @@
+# KiCad 
+*.bak
+*.bck
+*cache.lib 
+*.kicad_pcb-bak
+*.sch-bak
+
+seriallight.net
+fp-info-cache
+
+# other backup files
+*~
+\#*#
